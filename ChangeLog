@@ -1,7 +1,23 @@
+2022-02-09  おはぐろ蜻蛉  <ohaguro@breeze.dti.ne.jp>
+
+	* nkfを用いて以下についてUTF-8に変換した
+	  ChangeLog
+	  ChangeLog.1999-2002
+	  ChangeLog.2003
+	  ChangeLog.2004
+	  SKK-JISYO.L
+	  SKK-JISYO.M
+	  SKK-JISYO.S
+	  SKK-JISYO.geo
+	  SKK-JISYO.jinmei
+	  SKK-JISYO.law
+	  SKK-JISYO.propernoun
+	  SKK-JISYO.station
+
 2022-02-06  おはぐろ蜻蛉  <ohaguro@breeze.dti.ne.jp>
 
 	* ChangeLogのファイル名を変更した
-	
+
 2021-01-26  Tatsuya Kinoshita  <tats@debian.org>
 
 	* Makefile (SKK-JISYO.edict2): Use TOOLS_DIR.
